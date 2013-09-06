@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm9="http://schemas.microsoft.com/VisualStudio/TeamArchitect/SequenceDesigner"
+  dslVersion="1.0.0.0"
+  Id="903af1d8-0317-43ce-911f-768a41c71b23"
+  name="Fohjin.DDD.Models" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <profileInstances>
+    <packageHasProfileInstances
+      Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b">
+      <profileInstance
+        Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791"
+        name="StandardProfileL2" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="29349502-908c-4fda-9054-c48619c59ed0">
+      <profileInstance
+        Id="532ea607-fb19-44b8-8502-3351b05452be"
+        name="StandardProfileL3" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <packageHasNamedElement>
+      <class
+        Id="8717dc43-bca7-4d51-8a1e-1821a41371af"
+        name="Class1"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <interaction
+        Id="3707c90b-2a2a-4c1c-8498-d1bd13cd9f09"
+        name="TestSequence"
+        collapseFragmentsFlag="false"
+        isActiveClass="false"
+        isAbstract="false"
+        isLeaf="false"
+        isReentrant="false">
+        <fragments>
+          <behaviorExecutionSpecification
+            Id="b0b9c0e9-1e7c-4683-b0d3-457aea1a0ac2"
+            name="BehaviorExecutionSpecification1">
+            <coveredLifelines>
+              <lifelineMoniker
+                Id="ba2493c7-6eeb-49dd-b853-81cbe062f96c"
+                LastKnownName="Service"
+                LastKnownLocation="Fohjin.DDD.Models.uml" />
+            </coveredLifelines>
+            <finish>
+              <executionOccurrenceSpecificationMoniker
+                Id="94da2efa-de06-40bd-9914-db43efd0673c"
+                LastKnownName="ExecutionOccurrenceSpecification2"
+                LastKnownLocation="Fohjin.DDD.Models.uml" />
+            </finish>
+            <start>
+              <executionOccurrenceSpecificationMoniker
+                Id="22a25401-025c-48d6-a621-cbd27c69d429"
+                LastKnownName="ExecutionOccurrenceSpecification1"
+                LastKnownLocation="Fohjin.DDD.Models.uml" />
+            </start>
+            <nestedOccurrences>
+              <messageOccurrenceSpecificationMoniker
+                Id="6508ed29-be71-4723-ad16-afc550331762"
+                LastKnownName="MessageOccurrenceSpecification2"
+                LastKnownLocation="Fohjin.DDD.Models.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="c2edc49d-954a-4448-ab9d-c554de8e921a"
+                LastKnownName="MessageOccurrenceSpecification3"
+                LastKnownLocation="Fohjin.DDD.Models.uml" />
+            </nestedOccurrences>
+          </behaviorExecutionSpecification>
+          <executionOccurrenceSpecification
+            Id="22a25401-025c-48d6-a621-cbd27c69d429"
+            name="ExecutionOccurrenceSpecification1">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="8b40572f-b9a5-468c-a522-74156b81079d"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="Fohjin.DDD.Models.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="ba2493c7-6eeb-49dd-b853-81cbe062f96c"
+                LastKnownName="Service"
+                LastKnownLocation="Fohjin.DDD.Models.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="7158ec4d-a05b-41df-9d69-7caeb4c1c750"
+            name="MessageOccurrenceSpecification1">
+            <covered>
+              <lifelineMoniker
+                Id="d5136662-7c4e-42ca-8067-49cd659a8f61"
+                LastKnownName="CreateCustomer"
+                LastKnownLocation="Fohjin.DDD.Models.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="6508ed29-be71-4723-ad16-afc550331762"
+            name="MessageOccurrenceSpecification2">
+            <covered>
+              <lifelineMoniker
+                Id="ba2493c7-6eeb-49dd-b853-81cbe062f96c"
+                LastKnownName="Service"
+                LastKnownLocation="Fohjin.DDD.Models.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="c2edc49d-954a-4448-ab9d-c554de8e921a"
+            name="MessageOccurrenceSpecification3">
+            <covered>
+              <lifelineMoniker
+                Id="ba2493c7-6eeb-49dd-b853-81cbe062f96c"
+                LastKnownName="Service"
+                LastKnownLocation="Fohjin.DDD.Models.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="aaa8b794-968c-47c4-8ac0-6d889af749bd"
+            name="MessageOccurrenceSpecification4">
+            <covered>
+              <lifelineMoniker
+                Id="d5136662-7c4e-42ca-8067-49cd659a8f61"
+                LastKnownName="CreateCustomer"
+                LastKnownLocation="Fohjin.DDD.Models.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <executionOccurrenceSpecification
+            Id="94da2efa-de06-40bd-9914-db43efd0673c"
+            name="ExecutionOccurrenceSpecification2">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="6bedf1ea-d266-4269-8c00-e5ba0f7ff3ae"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="Fohjin.DDD.Models.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="ba2493c7-6eeb-49dd-b853-81cbe062f96c"
+                LastKnownName="Service"
+                LastKnownLocation="Fohjin.DDD.Models.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+        </fragments>
+        <lifelines>
+          <lifeline
+            Id="d5136662-7c4e-42ca-8067-49cd659a8f61"
+            name="CreateCustomer"
+            isActor="false"
+            lifelineDisplayName="CreateCustomer">
+            <topLevelOccurrences>
+              <messageOccurrenceSpecificationMoniker
+                Id="7158ec4d-a05b-41df-9d69-7caeb4c1c750"
+                LastKnownName="MessageOccurrenceSpecification1"
+                LastKnownLocation="Fohjin.DDD.Models.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="aaa8b794-968c-47c4-8ac0-6d889af749bd"
+                LastKnownName="MessageOccurrenceSpecification4"
+                LastKnownLocation="Fohjin.DDD.Models.uml" />
+            </topLevelOccurrences>
+          </lifeline>
+          <lifeline
+            Id="ba2493c7-6eeb-49dd-b853-81cbe062f96c"
+            name="Service"
+            isActor="false"
+            lifelineDisplayName="Service">
+            <topLevelOccurrences>
+              <executionOccurrenceSpecificationMoniker
+                Id="22a25401-025c-48d6-a621-cbd27c69d429"
+                LastKnownName="ExecutionOccurrenceSpecification1"
+                LastKnownLocation="Fohjin.DDD.Models.uml" />
+              <executionOccurrenceSpecificationMoniker
+                Id="94da2efa-de06-40bd-9914-db43efd0673c"
+                LastKnownName="ExecutionOccurrenceSpecification2"
+                LastKnownLocation="Fohjin.DDD.Models.uml" />
+            </topLevelOccurrences>
+          </lifeline>
+        </lifelines>
+        <messages>
+          <message
+            Id="a5337c5e-b791-4722-aae8-df4e5050e596"
+            name="ValidateName"
+            messageKind="Complete"
+            messageSort="SynchCall"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="7158ec4d-a05b-41df-9d69-7caeb4c1c750"
+                LastKnownName="MessageOccurrenceSpecification1"
+                LastKnownLocation="Fohjin.DDD.Models.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="6508ed29-be71-4723-ad16-afc550331762"
+                LastKnownName="MessageOccurrenceSpecification2"
+                LastKnownLocation="Fohjin.DDD.Models.uml" />
+            </receiveEvent>
+          </message>
+          <message
+            Id="d7e1e287-5a0d-427d-a1f3-45f7a54d7ad1"
+            name="&lt;&lt;return&gt;&gt;"
+            messageKind="Complete"
+            messageSort="Reply"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="c2edc49d-954a-4448-ab9d-c554de8e921a"
+                LastKnownName="MessageOccurrenceSpecification3"
+                LastKnownLocation="Fohjin.DDD.Models.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="aaa8b794-968c-47c4-8ac0-6d889af749bd"
+                LastKnownName="MessageOccurrenceSpecification4"
+                LastKnownLocation="Fohjin.DDD.Models.uml" />
+            </receiveEvent>
+          </message>
+        </messages>
+      </interaction>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="8b40572f-b9a5-468c-a522-74156b81079d"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="6bedf1ea-d266-4269-8c00-e5ba0f7ff3ae"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+  </packagedElements>
+  <primitiveType
+    Id="220a3521-e091-4221-bae9-3ef9018e845c"
+    name="Integer"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="8943dc84-709e-4f62-b15a-a3273aa6f165"
+    name="Boolean"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="59259974-6d55-42c6-b7bd-763d77ac8ef9"
+    name="String"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="3ab42e7d-4969-445a-b209-471f5cb8209c"
+    name="UnlimitedNatural"
+    isAbstract="false"
+    isLeaf="false" />
+</modelStoreModel>

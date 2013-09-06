@@ -1,0 +1,8 @@
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Reporting\bin\Debug\Fohjin.DDD.Reporting.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Reporting\bin\Debug\Fohjin.DDD.Reporting.pdb
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Reporting\bin\Debug\Fohjin.DDD.Reporting.Dto.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Reporting\bin\Debug\System.Data.SQLite.DLL
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Reporting\bin\Debug\Fohjin.DDD.Reporting.Dto.pdb
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Reporting\obj\Debug\Fohjin.DDD.Reporting.csprojResolveAssemblyReference.cache
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Reporting\obj\Debug\Fohjin.DDD.Reporting.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Reporting\obj\Debug\Fohjin.DDD.Reporting.pdb

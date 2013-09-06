@@ -1,0 +1,15 @@
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Domain\bin\Debug\Fohjin.DDD.Domain.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Domain\bin\Debug\Fohjin.DDD.Domain.pdb
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Domain\bin\Debug\Fohjin.DDD.Events.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Domain\bin\Debug\Fohjin.DDD.EventStore.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Domain\bin\Debug\Fohjin.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Domain\bin\Debug\StructureMap.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Domain\bin\Debug\Fohjin.DDD.Bus.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Domain\bin\Debug\Fohjin.DDD.EventStore.pdb
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Domain\bin\Debug\Fohjin.DDD.Events.pdb
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Domain\bin\Debug\Fohjin.pdb
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Domain\bin\Debug\StructureMap.pdb
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Domain\bin\Debug\Fohjin.DDD.Bus.pdb
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Domain\obj\Debug\Fohjin.DDD.Domain.csprojResolveAssemblyReference.cache
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Domain\obj\Debug\Fohjin.DDD.Domain.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Domain\obj\Debug\Fohjin.DDD.Domain.pdb

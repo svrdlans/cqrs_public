@@ -1,0 +1,10 @@
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.EventStore.SQLite\bin\Debug\Fohjin.DDD.EventStore.SQLite.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.EventStore.SQLite\bin\Debug\Fohjin.DDD.EventStore.SQLite.pdb
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.EventStore.SQLite\bin\Debug\Fohjin.DDD.EventStore.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.EventStore.SQLite\bin\Debug\System.Data.SQLite.DLL
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.EventStore.SQLite\bin\Debug\Fohjin.DDD.Bus.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.EventStore.SQLite\bin\Debug\Fohjin.DDD.EventStore.pdb
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.EventStore.SQLite\bin\Debug\Fohjin.DDD.Bus.pdb
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.EventStore.SQLite\obj\Debug\Fohjin.DDD.EventStore.SQLite.csprojResolveAssemblyReference.cache
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.EventStore.SQLite\obj\Debug\Fohjin.DDD.EventStore.SQLite.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.EventStore.SQLite\obj\Debug\Fohjin.DDD.EventStore.SQLite.pdb

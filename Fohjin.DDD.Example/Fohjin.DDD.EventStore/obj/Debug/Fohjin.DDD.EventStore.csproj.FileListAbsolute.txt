@@ -1,0 +1,7 @@
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.EventStore\bin\Debug\Fohjin.DDD.EventStore.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.EventStore\bin\Debug\Fohjin.DDD.EventStore.pdb
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.EventStore\bin\Debug\Fohjin.DDD.Bus.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.EventStore\bin\Debug\Fohjin.DDD.Bus.pdb
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.EventStore\obj\Debug\Fohjin.DDD.EventStore.csprojResolveAssemblyReference.cache
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.EventStore\obj\Debug\Fohjin.DDD.EventStore.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.EventStore\obj\Debug\Fohjin.DDD.EventStore.pdb

@@ -1,0 +1,9 @@
+C:\Development\Projects\CQRS\Fohjin.DDD.MakeReusable\Fohjin.EventStore\Fohjin.EventStore\bin\Debug\Fohjin.EventStore.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.MakeReusable\Fohjin.EventStore\Fohjin.EventStore\bin\Debug\Fohjin.EventStore.pdb
+C:\Development\Projects\CQRS\Fohjin.DDD.MakeReusable\Fohjin.EventStore\Fohjin.EventStore\bin\Debug\Castle.Core.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.MakeReusable\Fohjin.EventStore\Fohjin.EventStore\bin\Debug\Castle.DynamicProxy2.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.MakeReusable\Fohjin.EventStore\Fohjin.EventStore\bin\Debug\Castle.Core.pdb
+C:\Development\Projects\CQRS\Fohjin.DDD.MakeReusable\Fohjin.EventStore\Fohjin.EventStore\bin\Debug\Castle.DynamicProxy2.pdb
+C:\Development\Projects\CQRS\Fohjin.DDD.MakeReusable\Fohjin.EventStore\Fohjin.EventStore\obj\Debug\Fohjin.EventStore.csprojResolveAssemblyReference.cache
+C:\Development\Projects\CQRS\Fohjin.DDD.MakeReusable\Fohjin.EventStore\Fohjin.EventStore\obj\Debug\Fohjin.EventStore.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.MakeReusable\Fohjin.EventStore\Fohjin.EventStore\obj\Debug\Fohjin.EventStore.pdb

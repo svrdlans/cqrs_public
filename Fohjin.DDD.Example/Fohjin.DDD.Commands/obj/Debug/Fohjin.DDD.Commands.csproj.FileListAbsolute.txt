@@ -1,0 +1,5 @@
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Commands\bin\Debug\Fohjin.DDD.Commands.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Commands\bin\Debug\Fohjin.DDD.Commands.pdb
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Commands\obj\Debug\Fohjin.DDD.Commands.csprojResolveAssemblyReference.cache
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Commands\obj\Debug\Fohjin.DDD.Commands.dll
+C:\Development\Projects\CQRS\Fohjin.DDD.Example\Fohjin.DDD.Commands\obj\Debug\Fohjin.DDD.Commands.pdb
